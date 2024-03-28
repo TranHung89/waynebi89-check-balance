@@ -1,0 +1,33 @@
+{
+  "name": "waynebi89-check-balance",
+  "version": "1.0.0",
+  "description": "A Node.js module to check Ethereum wallet balance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TranHung89/waynebi89-check-balance.git"
+  },
+  "keywords": [
+    "waynebi89-check-balance",
+    "ethereum",
+    "gas",
+    "balance",
+    "eth",
+    "crypto"
+  ],
+  "author": "TranHung89",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TranHung89/waynebi89-check-balance/issues"
+  },
+  "homepage": "https://github.com/TranHung89/waynebi89-check-balance#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "web3": "^1.5.2",
+    "waynebi-gas-convert": "1.0.0"
+
+  }
+}
